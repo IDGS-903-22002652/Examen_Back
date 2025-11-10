@@ -162,3 +162,4 @@ C:\UNI\INGENIERIA\1003\Dario\Practicas\Examen_Practico\Examen_Practico\obj\Debug
 C:\UNI\INGENIERIA\1003\Dario\Practicas\Examen_Practico\Examen_Practico\obj\Debug\net9.0\Examen_Practico.pdb
 C:\UNI\INGENIERIA\1003\Dario\Practicas\Examen_Practico\Examen_Practico\obj\Debug\net9.0\Examen_Practico.genruntimeconfig.cache
 C:\UNI\INGENIERIA\1003\Dario\Practicas\Examen_Practico\Examen_Practico\obj\Debug\net9.0\ref\Examen_Practico.dll
+C:\UNI\INGENIERIA\1003\Dario\Practicas\Examen_Practico\Examen_Practico\obj\Debug\net9.0\Examen_Practico.sourcelink.json

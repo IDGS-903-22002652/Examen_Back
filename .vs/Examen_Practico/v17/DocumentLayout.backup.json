@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|c:\\uni\\ingenieria\\1003\\dario\\practicas\\examen_practico\\examen_practico\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|solutionrelative:examen_practico\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|c:\\uni\\ingenieria\\1003\\dario\\practicas\\examen_practico\\examen_practico\\examen_practico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|solutionrelative:examen_practico\\examen_practico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Migrations\\20251108025407_CreacionInicialUsuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen_Practico\\Migrations\\20251108025407_CreacionInicialUsuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|c:\\uni\\ingenieria\\1003\\dario\\practicas\\examen_practico\\examen_practico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|solutionrelative:examen_practico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|c:\\uni\\ingenieria\\1003\\dario\\practicas\\examen_practico\\examen_practico\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|solutionrelative:examen_practico\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|c:\\uni\\ingenieria\\1003\\dario\\practicas\\examen_practico\\examen_practico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|solutionrelative:examen_practico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|c:\\uni\\ingenieria\\1003\\dario\\practicas\\examen_practico\\examen_practico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|solutionrelative:examen_practico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|c:\\uni\\ingenieria\\1003\\dario\\practicas\\examen_practico\\examen_practico\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|solutionrelative:examen_practico\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|c:\\uni\\ingenieria\\1003\\dario\\practicas\\examen_practico\\examen_practico\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58802CC9-B06F-4ED1-A144-7FFF582BCFF6}|Examen_Practico\\Examen_Practico.csproj|solutionrelative:examen_practico\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Examen_Practico\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Examen_Practico\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T03:00:36.685Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20251108025407_CreacionInicialUsuarios.cs",
-              "DocumentMoniker": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Migrations\\20251108025407_CreacionInicialUsuarios.cs",
-              "RelativeDocumentMoniker": "Examen_Practico\\Migrations\\20251108025407_CreacionInicialUsuarios.cs",
-              "ToolTip": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Migrations\\20251108025407_CreacionInicialUsuarios.cs",
-              "RelativeToolTip": "Examen_Practico\\Migrations\\20251108025407_CreacionInicialUsuarios.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Examen_Practico\\Models\\User.cs",
+              "ToolTip": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Models\\User.cs",
+              "RelativeToolTip": "Examen_Practico\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T02:54:07.679Z",
+              "WhenOpened": "2025-11-09T06:30:19.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Program.cs",
               "RelativeDocumentMoniker": "Examen_Practico\\Program.cs",
               "ToolTip": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Program.cs",
               "RelativeToolTip": "Examen_Practico\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T02:34:42.629Z",
+              "WhenOpened": "2025-11-09T06:29:51.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\appsettings.json",
               "RelativeDocumentMoniker": "Examen_Practico\\appsettings.json",
@@ -89,50 +68,20 @@
               "RelativeToolTip": "Examen_Practico\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-08T02:29:04.512Z",
+              "WhenOpened": "2025-11-09T06:28:45.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Examen_Practico\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Examen_Practico\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Examen_Practico\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Examen_Practico\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0UAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T02:23:03.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Examen_Practico",
-              "DocumentMoniker": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Examen_Practico.csproj",
-              "RelativeDocumentMoniker": "Examen_Practico\\Examen_Practico.csproj",
-              "ToolTip": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Examen_Practico.csproj*",
-              "RelativeToolTip": "Examen_Practico\\Examen_Practico.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T02:21:37.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Examen_Practico\\Models\\User.cs",
-              "ToolTip": "C:\\UNI\\INGENIERIA\\1003\\Dario\\Practicas\\Examen_Practico\\Examen_Practico\\Models\\User.cs",
-              "RelativeToolTip": "Examen_Practico\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T02:07:29.096Z",
+              "WhenOpened": "2025-11-08T15:02:40.834Z",
               "EditorCaption": ""
             }
           ]
